@@ -1,0 +1,13 @@
+[
+  {
+    "id": "NR200",
+    "images": [
+      {
+        "path": "/cases/NR200/cm-nr200-both@2x.jpg",
+        "width": 1000,
+        "height": 526
+      }
+    ],
+    "foo": "bar2"
+  }
+]
